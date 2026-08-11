@@ -23,7 +23,7 @@ public class Descuento {
         double descuento=0;
         double precioVenta=0;
         double ventaTotal=0;
-        double montodescuento=0;
+       
         
         System.out.print("Ingrese su EDAD:");
         edad = sc.nextInt();
